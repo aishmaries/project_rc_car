@@ -1,0 +1,4 @@
+../Src/servo.c:10:6:servo_init	1
+../Src/servo.c:37:6:turn_cw	1
+../Src/servo.c:41:6:turn_ccw	1
+../Src/servo.c:45:6:center_servo	1

@@ -1,0 +1,6 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Src/camera.c:8:6:setup_camera	1
+../Src/camera.c:66:6:read_enable	1
+../Src/camera.c:70:9:read_byte	1
+../Src/camera.c:93:6:read_frame	11
+../Src/camera.c:116:6:EXTI3_IRQHandler	1
